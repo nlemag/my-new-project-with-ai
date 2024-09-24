@@ -1,8 +1,7 @@
-# my-new-project-with-ai
+**Project Name:** LinguaAudio  
 building ai course project
 
 ### Idea in a Nutshell
-**Project Name:** LinguaAudio  
 **Description:** LinguaAudio is an innovative app designed to extract articles from established media sources in German (and other foreign languages), generate audio versions of these articles, and visually organize the text by marking grammatical elements with different colors (e.g., nouns in green). Additionally, the app will translate and summarize articles for enhanced comprehension.
 
 ### Background
